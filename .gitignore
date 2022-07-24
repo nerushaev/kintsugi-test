@@ -4,3 +4,5 @@
 .prettierrc
 .sassrc
 .parcel-cache
+.gitattrebutes
+.gitignore
